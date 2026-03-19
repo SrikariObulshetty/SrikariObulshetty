@@ -6,7 +6,7 @@ Email Me 👉 ✉️ **srikariobulshetty@gmail.com** For Collaboration/Project o
 - 🔭 **I’m currently working on:** Mentor-Mentee Project - A Full Stack Project for institute 
 - 🌱 **I’m currently learning:** MERN at a deeper level.
 - 📫 **How to reach me:** srikariobulshetty@gmail.com
-- ⚡ **Fun fact:** Developers prefer Dark mode beacause Light attracts bugs.
+- ⚡ **Fun fact:** Developers prefer Dark mode because Light attracts bugs.
 
 
 
